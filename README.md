@@ -6,3 +6,9 @@ Mvn spring-boot:run
 
 ## About  
 Small API implement Factory pattern 
+
+
+need to 
+- add time out while consume api
+- add redis
+- add swagger
