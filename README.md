@@ -12,3 +12,6 @@ need to
 - add time out while consume api
 - add redis
 - add swagger
+
+## Result Test
+Please see DoggyCat Service.docx
